@@ -4,4 +4,4 @@ Test by Tom Peeters
 
 Rewriting the readme file
 
-fix
+fix the readme file by T.Peeters
